@@ -1,0 +1,13 @@
+{
+  "name": "Service",
+  "version": "0.0.0",
+  "description": "Service",
+  "main": "app.js",
+  "author": {
+    "name": "227pamfavaro",
+    "email": ""
+  },
+  "dependencies": {
+    "mssql": "^3.1.2"
+  }
+}
